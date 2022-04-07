@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://gitfiilipeneto.github.io/csb-el28m3/static/js/main.ad5b88c2.chunk.js",
+    "main.js.map": "https://gitfiilipeneto.github.io/csb-el28m3/static/js/main.ad5b88c2.chunk.js.map",
+    "runtime-main.js": "https://gitfiilipeneto.github.io/csb-el28m3/static/js/runtime-main.d5c970bc.js",
+    "runtime-main.js.map": "https://gitfiilipeneto.github.io/csb-el28m3/static/js/runtime-main.d5c970bc.js.map",
+    "static/js/2.2becd9ba.chunk.js": "https://gitfiilipeneto.github.io/csb-el28m3/static/js/2.2becd9ba.chunk.js",
+    "static/js/2.2becd9ba.chunk.js.map": "https://gitfiilipeneto.github.io/csb-el28m3/static/js/2.2becd9ba.chunk.js.map",
+    "index.html": "https://gitfiilipeneto.github.io/csb-el28m3/index.html",
+    "static/js/2.2becd9ba.chunk.js.LICENSE.txt": "https://gitfiilipeneto.github.io/csb-el28m3/static/js/2.2becd9ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5c970bc.js",
+    "static/js/2.2becd9ba.chunk.js",
+    "static/js/main.ad5b88c2.chunk.js"
+  ]
+}
